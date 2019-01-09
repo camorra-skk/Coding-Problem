@@ -5,7 +5,7 @@ package miscPackage;
 
 import java.util.Arrays;
 
-public class DailyCoding2 {
+public class CodingProblemDay2 {
 
 	public static void main(String[] args) {
 		
